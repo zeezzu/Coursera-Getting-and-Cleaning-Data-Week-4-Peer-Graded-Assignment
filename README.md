@@ -29,6 +29,6 @@ Adds the activity labels
 
 Cleans the labels
 
-and creates the dataset combinedmnsd
+Creates the dataset combinedmnsd
 
-Groupby and summarise are then used to create all variable means in the dataset summarySet
+And use groupby and summarise are then used to create all variable means in the dataset summarySet
